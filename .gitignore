@@ -1,0 +1,10 @@
+*.o
+*.elf
+*.map
+*.log
+*.d
+*.pdb
+*.axf
+*.out
+Debug/
+Release/
