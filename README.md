@@ -50,7 +50,3 @@ Click the image above to watch the **system demonstration video**.
 3. (Optional) Connect your MSP430 LaunchPad if you want to flash the firmware.
 4. Build and flash `src/main.c`.  
 
----
-
-## Repository Structure
-
